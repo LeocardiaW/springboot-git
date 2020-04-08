@@ -34,7 +34,7 @@ public class UserServiceimpl implements UserService {
         }
         return null;
     }
-
+//
     //查询所有电影
     @Override
     public List<Movie> selectAllMovies() {
